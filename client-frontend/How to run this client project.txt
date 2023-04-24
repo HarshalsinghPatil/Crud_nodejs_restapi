@@ -1,0 +1,5 @@
+
+open in vscode and in terminal put
+npm install
+npm fund
+npm start
